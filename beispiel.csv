@@ -1,0 +1,7 @@
+kunden_id;name;email;umsatz_eur
+K001; Anna Beispiel ;ANNA@example.com;125,50
+K002;Ben Muster;ben@example.com;80
+K002;Ben Duplikat;ben@example.com;80
+K003;;ungueltig;20
+K004;Clara Beispiel;clara@example.com;-5
+K005;Deniz Muster;deniz@example.com;42.90
